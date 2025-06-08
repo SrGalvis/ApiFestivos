@@ -2,7 +2,7 @@ pipeline {
 	agent any
 	
 	environment {
-		DOCKER_IMAGEN = 'apiFestivos'
+		DOCKER_IMAGEN = 'apifestivos'
 		CONTAINER_NAME = 'dockerbdfestivos'
 		APP_PORT = '5235'
 		HOST_PORT = '7080'
@@ -16,13 +16,19 @@ pipeline {
 			}
 		}
 
-	stage('Construir la imagen de Docker') {
-	    steps {
-	        script {
-	            bat 'docker build -t apifestivos:latest .'
-	        }
-	    }
-	}
+		stage('Verificar Docker') {
+			steps {
+				bat 'docker --version'
+			}
+		}
+
+		stage('Construir la imagen de Docker') {
+			steps {
+				script {
+					bat "docker build -t %DOCKER_IMAGEN%:latest ."
+				}
+			}
+		}
 
         stage('Limpiar contenedor existente') {
             steps {
@@ -42,7 +48,7 @@ pipeline {
 		stage('Desplegar contenedor'){
 			steps{
 				script{
-					bat "docker run -d --name %CONTAINER_NAME% --network %DOCKER_NETWORK% -p %HOST_PORT%:%APP_PORT% %DOCKER_IMAGE%"
+					bat "docker run -d --name %CONTAINER_NAME% --network %DOCKER_NETWORK% -p %HOST_PORT%:%APP_PORT% %DOCKER_IMAGEN%:latest"
 				}
 			}
 		}
@@ -56,5 +62,4 @@ pipeline {
             echo 'Falló el despliegue.'
         }
     }
-
 }
