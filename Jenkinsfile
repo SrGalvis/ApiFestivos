@@ -16,34 +16,45 @@ pipeline {
 			}
 		}
 
-		stage('Construir la imagen de Docker') {
-			steps {
-				script {
-					bat "docker build -t %DOCKER_IMAGEN% ."
+	stage('Construir la imagen de Docker'){
+			steps{
+				script{
+					bat "docker build -t %DOCKER_IMAGE% ."
 				}
 			}
 		}
 
-		stage('Desplegar contenedor') {
-			steps {
-				script {
-					// Parar y eliminar el contenedor si ya existe (evita conflictos)
-					bat "docker stop %CONTAINER_NAME% || exit 0"
-					bat "docker rm %CONTAINER_NAME% || exit 0"
+        stage('Limpiar contenedor existente') {
+            steps {
+                script {
+                    catchError(buildResult: 'SUCCESS', stageResult: 'UNSTABLE') {
+                        bat """
+                        docker container inspect %CONTAINER_NAME% >nul 2>&1 && (
+                            docker container stop %CONTAINER_NAME%
+                            docker container rm %CONTAINER_NAME%
+                        ) || echo El contenedor '%CONTAINER_NAME%' no existe o ya fue eliminado.
+                        """
+                    }
+                }
+            }
+        }
 
-					// Ejecutar nuevo contenedor
-					bat "docker run -d --name %CONTAINER_NAME% --network %DOCKER_NETWORK% -p %HOST_PORT%:%APP_PORT% %DOCKER_IMAGEN%"
+		stage('Desplegar contenedor'){
+			steps{
+				script{
+					bat "docker run -d --name %CONTAINER_NAME% --network %DOCKER_NETWORK% -p %HOST_PORT%:%APP_PORT% %DOCKER_IMAGE%"
 				}
 			}
 		}
 	}
 
 	post {
-		success {
-			echo 'Despliegue exitoso.'
-		}
-		failure {
-			echo 'Fallo el despliegue.'
-		}
-	}
+        success {
+            echo 'Despliegue exitoso.'
+        }
+        failure {
+            echo 'Falló el despliegue.'
+        }
+    }
+
 }
