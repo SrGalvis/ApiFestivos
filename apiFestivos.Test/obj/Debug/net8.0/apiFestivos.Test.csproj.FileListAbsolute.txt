@@ -1,0 +1,222 @@
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_apiFestivos.Test
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\testhost.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\testhost.exe
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Test.deps.json
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Test.runtimeconfig.json
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Test.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Test.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\Moq.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\xunit.core.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Aplicacion.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Core.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Dominio.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Aplicacion.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Core.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Dominio.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.csproj.AssemblyReference.cache
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.AssemblyInfoInputs.cache
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.AssemblyInfo.cs
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.csproj.CoreCompileInputs.cache
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\obj\Debug\net8.0\apiFesti.C0E5BD69.Up2Date
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\obj\Debug\net8.0\refint\apiFestivos.Test.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.genruntimeconfig.cache
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Test\obj\Debug\net8.0\ref\apiFestivos.Test.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_apiFestivos.Test
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\testhost.exe
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\testhost.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Test.deps.json
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Test.runtimeconfig.json
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Test.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Test.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\Moq.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\xunit.core.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Aplicacion.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Core.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Dominio.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Aplicacion.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Core.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\bin\Debug\net8.0\apiFestivos.Dominio.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.csproj.AssemblyReference.cache
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.AssemblyInfoInputs.cache
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.AssemblyInfo.cs
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\obj\Debug\net8.0\apiFesti.C0E5BD69.Up2Date
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\obj\Debug\net8.0\refint\apiFestivos.Test.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\obj\Debug\net8.0\apiFestivos.Test.genruntimeconfig.cache
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Test\obj\Debug\net8.0\ref\apiFestivos.Test.dll

@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "apiFestivos.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "apiFestivos.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/apiFestivos.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/apiFestivos.Core.dll": {}
+        }
+      },
+      "apiFestivos.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/apiFestivos.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/apiFestivos.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "apiFestivos.Core/1.0.0": {
+      "type": "project",
+      "path": "../apiFestivos.Core/apiFestivos.Core.csproj",
+      "msbuildProject": "../apiFestivos.Core/apiFestivos.Core.csproj"
+    },
+    "apiFestivos.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../apiFestivos.Dominio/apiFestivos.Dominio.csproj",
+      "msbuildProject": "../apiFestivos.Dominio/apiFestivos.Dominio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "apiFestivos.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Carlos Galvis\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\apiFestivos.Aplicacion\\apiFestivos.Aplicacion.csproj",
+      "projectName": "apiFestivos.Aplicacion",
+      "projectPath": "C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\apiFestivos.Aplicacion\\apiFestivos.Aplicacion.csproj",
+      "packagesPath": "C:\\Users\\Carlos Galvis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\apiFestivos.Aplicacion\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Carlos Galvis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\apiFestivos.Core\\apiFestivos.Core.csproj": {
+              "projectPath": "C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\apiFestivos.Core\\apiFestivos.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

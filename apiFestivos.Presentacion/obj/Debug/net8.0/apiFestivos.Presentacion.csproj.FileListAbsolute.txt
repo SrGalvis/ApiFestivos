@@ -1,0 +1,176 @@
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\appsettings.json
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Presentacion.staticwebassets.endpoints.json
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Presentacion.exe
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Presentacion.deps.json
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Presentacion.runtimeconfig.json
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Presentacion.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Presentacion.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Aplicacion.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Core.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Dominio.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Infraestructura.Repositorio.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Aplicacion.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Core.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Infraestructura.Repositorio.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Dominio.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.AssemblyInfoInputs.cache
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.AssemblyInfo.cs
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\scopedcss\bundle\apiFestivos.Presentacion.styles.css
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.apiFestivos.Presentacion.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.apiFestivos.Presentacion.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.build.apiFestivos.Presentacion.props
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.apiFestivos.Presentacion.props
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.apiFestivos.Presentacion.props
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\apiFesti.5FAE87B4.Up2Date
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\refint\apiFestivos.Presentacion.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.genruntimeconfig.cache
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Presentacion\obj\Debug\net8.0\ref\apiFestivos.Presentacion.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\appsettings.json
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Presentacion.staticwebassets.endpoints.json
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Presentacion.exe
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Presentacion.deps.json
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Presentacion.runtimeconfig.json
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Presentacion.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Presentacion.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Aplicacion.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Core.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Dominio.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Infraestructura.Repositorio.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Aplicacion.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Core.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Infraestructura.Repositorio.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\bin\Debug\net8.0\apiFestivos.Dominio.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.AssemblyInfoInputs.cache
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.AssemblyInfo.cs
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\scopedcss\bundle\apiFestivos.Presentacion.styles.css
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.apiFestivos.Presentacion.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.apiFestivos.Presentacion.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.build.apiFestivos.Presentacion.props
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.apiFestivos.Presentacion.props
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.apiFestivos.Presentacion.props
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\apiFesti.5FAE87B4.Up2Date
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\refint\apiFestivos.Presentacion.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\apiFestivos.Presentacion.genruntimeconfig.cache
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Presentacion\obj\Debug\net8.0\ref\apiFestivos.Presentacion.dll

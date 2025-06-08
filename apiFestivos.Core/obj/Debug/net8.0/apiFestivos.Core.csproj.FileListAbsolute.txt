@@ -1,0 +1,30 @@
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\bin\Debug\net8.0\apiFestivos.Core.deps.json
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\bin\Debug\net8.0\apiFestivos.Core.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\bin\Debug\net8.0\apiFestivos.Core.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\bin\Debug\net8.0\apiFestivos.Dominio.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\bin\Debug\net8.0\apiFestivos.Dominio.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.csproj.AssemblyReference.cache
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.AssemblyInfoInputs.cache
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.AssemblyInfo.cs
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.csproj.CoreCompileInputs.cache
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\obj\Debug\net8.0\apiFesti.D30E4333.Up2Date
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\obj\Debug\net8.0\refint\apiFestivos.Core.dll
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.pdb
+C:\Users\Leidy Galvis\Downloads\ITM_AS_apiFestivos-main\ITM_AS_apiFestivos-main\apiFestivos.Core\obj\Debug\net8.0\ref\apiFestivos.Core.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\bin\Debug\net8.0\apiFestivos.Core.deps.json
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\bin\Debug\net8.0\apiFestivos.Core.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\bin\Debug\net8.0\apiFestivos.Core.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\bin\Debug\net8.0\apiFestivos.Dominio.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\bin\Debug\net8.0\apiFestivos.Dominio.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.csproj.AssemblyReference.cache
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.AssemblyInfoInputs.cache
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.AssemblyInfo.cs
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\obj\Debug\net8.0\apiFesti.D30E4333.Up2Date
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\obj\Debug\net8.0\refint\apiFestivos.Core.dll
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\obj\Debug\net8.0\apiFestivos.Core.pdb
+C:\Users\Carlos Galvis\Desktop\Administracion de sistemas 2025-1\DML - Festivos\ITM_AS_apiFestivo-CarlosGalvis\apiFestivos.Core\obj\Debug\net8.0\ref\apiFestivos.Core.dll

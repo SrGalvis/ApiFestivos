@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\Jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:Jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099B615-4372-4B2F-9603-989D5DDCD249}|apiFestivos.Presentacion\\apiFestivos.Presentacion.csproj|c:\\users\\carlos galvis\\desktop\\administracion de sistemas 2025-1\\dml - festivos\\itm_as_apifestivo-carlosgalvis\\apifestivos.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5099B615-4372-4B2F-9603-989D5DDCD249}|apiFestivos.Presentacion\\apiFestivos.Presentacion.csproj|solutionrelative:apifestivos.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dockerfile",
+              "DocumentMoniker": "C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\dockerfile",
+              "RelativeDocumentMoniker": "dockerfile",
+              "ToolTip": "C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\dockerfile",
+              "RelativeToolTip": "dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-08T17:30:28.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\apiFestivos.Presentacion\\appsettings.json",
+              "RelativeDocumentMoniker": "apiFestivos.Presentacion\\appsettings.json",
+              "ToolTip": "C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\apiFestivos.Presentacion\\appsettings.json",
+              "RelativeToolTip": "apiFestivos.Presentacion\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-08T16:43:30.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jenkinsfile",
+              "DocumentMoniker": "C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\Jenkinsfile",
+              "RelativeDocumentMoniker": "Jenkinsfile",
+              "ToolTip": "C:\\Users\\Carlos Galvis\\Desktop\\Administracion de sistemas 2025-1\\DML - Festivos\\ITM_AS_apiFestivo-CarlosGalvis\\Jenkinsfile",
+              "RelativeToolTip": "Jenkinsfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-08T16:35:28.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
