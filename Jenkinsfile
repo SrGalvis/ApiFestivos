@@ -16,13 +16,13 @@ pipeline {
 			}
 		}
 
-	stage('Construir la imagen de Docker'){
-			steps{
-				script{
-					bat "docker build -t %DOCKER_IMAGE% ."
-				}
-			}
-		}
+	stage('Construir la imagen de Docker') {
+	    steps {
+	        script {
+	            bat 'docker build -t apifestivos:latest .'
+	        }
+	    }
+	}
 
         stage('Limpiar contenedor existente') {
             steps {
