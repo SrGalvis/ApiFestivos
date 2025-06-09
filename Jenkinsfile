@@ -3,10 +3,10 @@ pipeline {
 
 	environment {
 		DOCKER_IMAGEN = 'apifestivos'
-		CONTAINER_NAME = 'apifestivos-container'       // ← Cambiado
+		CONTAINER_NAME = 'apifestivos-container'
 		APP_PORT = '5289'
 		HOST_PORT = '7080'
-		DOCKER_NETWORK = 'festivos_red'                // Asegúrate que exista esta red o créala antes
+		DOCKER_NETWORK = 'festivos_red'
 	}
 
 	stages {
@@ -41,6 +41,16 @@ pipeline {
 						) || echo El contenedor '%CONTAINER_NAME%' no existe o ya fue eliminado.
 						"""
 					}
+				}
+			}
+		}
+
+		stage('Verificar red Docker') {
+			steps {
+				script {
+					bat """
+					docker network inspect %DOCKER_NETWORK% >nul 2>&1 || docker network create %DOCKER_NETWORK%
+					"""
 				}
 			}
 		}
