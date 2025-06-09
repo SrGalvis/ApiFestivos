@@ -6,7 +6,7 @@ pipeline {
 		CONTAINER_NAME = 'apifestivos-container'
 		APP_PORT = '5289'
 		HOST_PORT = '7080'
-		DOCKER_NETWORK = 'festivos_red'
+		DOCKER_NETWORK = 'red'
 	}
 
 	stages {
