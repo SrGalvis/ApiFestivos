@@ -1,19 +1,17 @@
 # Imagen base para runtime
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 WORKDIR /app
-# Configurar el puerto de la aplicación
-ENV ASPNETCORE_URLS=http://+:80
+# Configurar el puerto de la aplicación para que coincida con docker-compose
+ENV ASPNETCORE_URLS=http://+:5289
 # Exponer el puerto que usará la aplicación
-EXPOSE 80
+EXPOSE 5289
 
 # Imagen para build
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-
 # Copiar archivos de proyecto primero para mejor cache de Docker
 COPY *.csproj ./
 RUN dotnet restore
-
 # Copiar el resto del código
 COPY . .
 RUN dotnet publish -c Release -o /app/publish
